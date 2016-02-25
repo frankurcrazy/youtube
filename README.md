@@ -1,4 +1,4 @@
-Youtube CLI Utility
+YouTube CLI Utility
 ===================
 
 Author: Frank Chang < frank@urcrazy.net >
