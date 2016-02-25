@@ -7,6 +7,8 @@ Author: Frank Chang < frank@urcrazy.net >
 A small utility of mime that currently support search function.
 
 ## Installation
-pip install -r requirement.txt
-./ytsearch < keywords >
+`pip install -r requirement.txt`
+
+## Usage
+`./ytsearch < keywords >`
 
